@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ideagithub:war exploded">
+    <output-path>$PROJECT_DIR$/target/ideagithub</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ideagithub" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="D:\all-prjs-min\ideagithub\target/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="ideagithub/web/Web" />
+    </root>
+  </artifact>
+</component>
